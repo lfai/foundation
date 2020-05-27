@@ -61,4 +61,6 @@ If you are submitting an article or presentation that already exists, please sen
 
 Once your submission is approved, it will be added to the LF AI blog publishing calendar and a publish date will be provided to you so you may plan to promote accordingly through your personal and company social media channels. Please note that publishing dates are dependent on availability in the publishing calendar and resources available at the time. 
 
-We look forward to your blog submission. For questions, please email pr@lfai.foundation. 
+We look forward to your blog submission. 
+
+For any questions, please email pr@lfai.foundation. 
