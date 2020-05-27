@@ -38,6 +38,8 @@ Blog content should incorporate the following:
 * When showing upstreaming of a patch fixing an issue for others, link back to the Github issue, so readers can follow along.
 * Critical commentary or broad issues must be approached with sensitivity, professionalism, and tact in a way that is beneficial and positive for the community.
 * Your post must be your content, but can be published elsewhere with a right to republish. All content should have an author and be published [Creative Commons with Attribution](https://creativecommons.org/share-your-work/), so you’re welcome to re-publish on your own blog.
+* Blog length should be no longer than 1,000 words and no shorter than 300 words
+* And it is highly encouraged to include at least one image in the blog, such as diagrams, code examples, or photos
 
 Guest authors can add 1-2 sentences at the end of their blog with a link to an external site such as their website or a gated asset. Example best practices:
 
@@ -45,10 +47,7 @@ Guest authors can add 1-2 sentences at the end of their blog with a link to an e
 * Links to company websites
 * Links to project websites or Github
 * Advertise if they are hiring and who to contact if interested
-
-Note: This should not be a link to the LF AI website or form on the LF AI website. The LF AI PR team will review the statement, as is done for the blog content, to approve the author content. If changes are needed, the LF AI PR team will provide suggested edits.
-
-Blogs should be no longer than 1,000 words and no shorter than 300 words. Diagrams, code examples, or photos are strongly encouraged.
+* The information should not be a link to the LF AI website or form on the LF AI website. The LF AI PR team will review the statement, as is done for the blog content, to approve the author content. If changes are needed, the LF AI PR team will provide suggested edits.
 
 Note: All blogs must adhere to the [LF AI Code of Conduct](https://lfprojects.org/policies/code-of-conduct/).
 
