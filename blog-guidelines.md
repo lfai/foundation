@@ -1,7 +1,7 @@
-# LF AI Foundation (LF AI) Blog Guidelines
+# LF AI Foundation Blog Guidelines
 
 ## LF AI Blog Overview
-The [LF AI Foundation blog](https://lfai.foundation/news/blog/) serves as a channel for LF AI members, project maintainers of graduated and incubating projects, committees, and working groups to share content with the artificial intelligence (AI), machine learning (ML), and deep learning (DL) community. 
+The [LF AI Foundation (LF AI) blog](https://lfai.foundation/news/blog/) serves as a channel for LF AI members, project maintainers of graduated and incubating projects, committees, and working groups to share content with the artificial intelligence (AI), machine learning (ML), and deep learning (DL) community. 
 
 The content on the LF AI blog consists of:
 
