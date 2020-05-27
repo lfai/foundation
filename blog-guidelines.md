@@ -29,7 +29,7 @@ LF AI blog type definitions:
 
 The LF AI blog audience is developers and the broader AI, ML, and DL open source enthusiasts. Blogs should be intended to teach and give value to the broader LF AI community.
 
-Some things to think about:
+Blog content should incorporate the following:
 
 * Posts from members must be vendor-neutral. The post may mention a vendor’s name as it relates to specific open source project(s), project deployments, adoption paths, the hosting of an in-person event or speaking at an event, or other indications of meaningful participation in the community, but it shouldn’t feel like an advertisement for the member services or company. We do not accept member or company services announcements or press releases to the LF AI blog.
 * The most interesting posts are how-to blogs, blogs with technical content, and those that teach or show how to do something in a way others may not have thought of.
@@ -39,18 +39,14 @@ Some things to think about:
 * Critical commentary or broad issues must be approached with sensitivity, professionalism, and tact in a way that is beneficial and positive for the community.
 * Your post must be your content, but can be published elsewhere with a right to republish. All content should have an author and be published [Creative Commons with Attribution](https://creativecommons.org/share-your-work/), so you’re welcome to re-publish on your own blog.
 
-Guest authors can add 1-2 sentences at the end of their blog with a link to an external site such as their website or a gated asset. 
-
-Examples for best practices:
+Guest authors can add 1-2 sentences at the end of their blog with a link to an external site such as their website or a gated asset. Example best practices:
 
 * Share contact info of author - email, twitter, slack
 * Links to company websites
 * Links to project websites or Github
 * Advertise if they are hiring and who to contact if interested
 
-Note: This should not be a link to the LF AI website or form on the LF AI website.
-
-The LF AI PR team will review the statement, as we do for the content for the blog, to approve the content. If changes are needed, we will provide suggested changes.
+Note: This should not be a link to the LF AI website or form on the LF AI website. The LF AI PR team will review the statement, as is done for the blog content, to approve the author content. If changes are needed, the LF AI PR team will provide suggested edits.
 
 Blogs should be no longer than 1,000 words and no shorter than 300 words. Diagrams, code examples, or photos are strongly encouraged.
 
