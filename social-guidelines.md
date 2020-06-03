@@ -9,7 +9,7 @@ The objectives of LF AI social media:
 * Advance topics and conversations that are relevant to and beneficial for the AI, ML, and DL community
 * Continue building positive affinity for LF AI projects among key influencers and throughout the AI, ML, and DL community
 * Drive engagement and participation in LF AI projects
-* 
+
 ## Themes & Topics
 Informational, engaging, and ecosystem-focused content, which can include:
 
