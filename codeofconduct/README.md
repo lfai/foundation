@@ -1,15 +1,11 @@
-# LF AI & Data Code of Conduct 
-# 
+# LF AI & Data Code of Conduct
 # Overview
-# 
 In the interest of fostering an open and welcoming community the LF AI & Data Foundation, its technical projects and committees adhere to the [LF Projects, LLC Code of Conduct](https://lfprojects.org/policies/code-of-conduct/https://). 
 
 # Code of Conduct
-# 
 Please visit [https://lfprojects.org/policies/code-of-conduct/](https://lfprojects.org/policies/code-of-conduct/https://) for the most updated version of the LF Projects, LLC Code of Conduct.
 
 # Reporting Issues
-# 
 For any issues that may arise within a technical project or a committee, the reporter should first contact the project TSC Chairperson of the technical project or the Chair of the specific committee for initial review and discussion. Ideally the issue will be resolved within the project community with mutual satisfaction. 
 
 If there is a conflict of interest in contacting the TSC Chairperson, TSC voting members or the Chair of a given committee, the reporter should email the Code of Conduct Committee (conduct@lfaidata.foundation) with an overview of the issue, including links to any publicly accessible material relating to the matter. The issue will be reviewed by the Code of Conduct Committee (individuals listed below). An initial response can be expected within three business days. 
@@ -27,7 +23,4 @@ Below are the individuals in the Code of Conduct Committee (conduct@lfaidata.fou
 Escalations will be sent to the Manager of LF Projects, Mike Dolan (manager@lfprojects.org).
  
 # Questions
-#  
 For any questions, please email conduct@lfaidata.foundation. 
-
-
