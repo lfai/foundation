@@ -1,9 +1,9 @@
 # LF AI & Data Code of Conduct 
 # Overview
-In the interest of fostering an open and welcoming community the LF AI & Data Foundation, its technical projects and committees adhere to the [LF Projects, LLC Code of Conduct](https://lfprojects.org/policies/code-of-conduct/https://). 
+In the interest of fostering an open and welcoming community the LF AI & Data Foundation, its technical projects and committees adhere to the [LF Projects, LLC Code of Conduct](https://lfprojects.org/policies/code-of-conduct). 
 
 # Code of Conduct
-Please visit [https://lfprojects.org/policies/code-of-conduct/](https://lfprojects.org/policies/code-of-conduct/https://) for the most updated version of the LF Projects, LLC Code of Conduct.
+Please visit [https://lfprojects.org/policies/code-of-conduct/](https://lfprojects.org/policies/code-of-conduct) for the most updated version of the LF Projects, LLC Code of Conduct.
 
 # Reporting Issues
 For any issues that may arise within a technical project or a committee, the reporter should first contact the project TSC Chairperson of the technical project or the Chair of the specific committee for initial review and discussion. Ideally the issue will be resolved within the project community with mutual satisfaction. 
