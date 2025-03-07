@@ -12,15 +12,11 @@ If there is a conflict of interest in contacting the TSC Chairperson, TSC voting
 
 The Code of Conduct Committee reserves the right to take appropriate action, potentially including the removal of an individual from any and all participation in the project or committee. 
 
-If a resolution cannot be reached it will be escalated to the Manager of LF Projects, Mike Dolan (manager@lfprojects.org).
-
 # Code of Conduct Committee 
 Below are the individuals in the Code of Conduct Committee (conduct@lfaidata.foundation):
  
-* Ibrahim Haddad - LF AI & Data Executive Director
-* Nancy Rausch - LF AI & Data Technical Advisory Council (TAC) Chairperson
- 
-Escalations will be sent to the Manager of LF Projects, Mike Dolan (manager@lfprojects.org).
+* Todd Moore - LF AI & Data Executive Director
+* Ezequiel Lanza - LF AI & Data Technical Advisory Council (TAC) Chairperson
  
 # Questions
 For any questions, please email conduct@lfaidata.foundation. 
