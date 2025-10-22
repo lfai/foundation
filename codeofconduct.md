@@ -15,7 +15,7 @@ The Code of Conduct Committee reserves the right to take appropriate action, pot
 # Code of Conduct Committee 
 Below are the individuals in the Code of Conduct Committee (conduct@lfaidata.foundation):
  
-* Todd Moore - LF AI & Data Executive Director
+* Mark Collier - GM AI & Infrastructure
 * Ezequiel Lanza - LF AI & Data Technical Advisory Council (TAC) Chairperson
  
 # Questions
